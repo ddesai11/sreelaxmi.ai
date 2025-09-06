@@ -1,5 +1,16 @@
-# sreelaxmi.ai
+# SreeLaxmi AI
 
-Welcome to Sree Laxmi
+* We specialize in helping businesses solve technical problems using AI tools.
 
-We specialize in helping companies solve technical problems
+* Chetna D Desai - CEO
+* Shreya D Desai - CMO
+* Shivan D Desai - CTO
+* Dhiren M Desai - CFO
+
+
+* Mission Statement
+```
+We will grow ...
+
+```
+
