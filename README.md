@@ -1,7 +1,5 @@
 # SreeLaxmi AI
 
-# SreeLaxmi AI
-
 * We specialize in helping businesses solve technical problems using AI tools.
 
 * Chetna D Desai - CEO
