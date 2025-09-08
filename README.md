@@ -2,11 +2,6 @@
 
 * We specialize in helping businesses solve technical problems using AI tools.
 
-* Chetna D Desai - CEO
-* Shreya D Desai - CMO
-* Shivan D Desai - CTO
-* Dhiren M Desai - CFO
-
 
 * Mission Statement
 ```
